@@ -32,13 +32,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bsc Internet Software Development, Glasgow Caledonian University
+
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+HND Multimedia & Web Development, Glasgow Langside College
 
 ## Experience
 
