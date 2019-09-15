@@ -1,54 +1,54 @@
-## Your Name
+## Farnaz Ardenti
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+## <a name="makers_projects">Makers Academy Projects</a>
+| Project | Summary | Technologies |
+|----------|----------|----------|
+| [chitter](https://github.com/fardenti/frontend-api-challenge) | A small Twitter clone that will allow the users to post messages to a public stream, using a built backend API which is hosted on Heroku. | Javascript ES6, ReactJS, JSX, CSS, Heroku API |
+| [thermostat-JS](https://github.com/fardenti/thermostat-js) | A thermostat web app with a Sinatra RESTful API | JavaScript, Sinatra, Ruby, Jasmine, HTML, CSS |
+| [Bowling Score card](https://github.com/fardenti/bowling-challenge) | A bowling score card focusing on TDD and Object Oriented Programming | JavaScript, Jasmine, HTML, CSS |
+| [A Note App](https://github.com/fardenti/notes-app-JS) | A single page web app for creating notes focusing on manipulating the DOM and writing tests with Javascript| JavaScript, HTML, CSS |
+| [Oystercard](https://github.com/fardenti/oystercard) | An Oystercard app focusing on TDD and Object Oriented Programming| Ruby, Rspec|
 
-## Skills
+### Technical skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+• JavaScript, React JS, jQuery
+• Ruby, Rails
+• HTML, CSS, SASS/LESS, JSON
+• Jasmin, RSpec, Capybara
+• Heroku, Travis CI
+• Git, JIRA
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 19 - Oct 19)
 
+- Ruby, Rails, JavaScript, ReactJS
+- HTML, CSS, Bootstrap
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Caledonian University / 2008 – 2010
 
-- Bsc Internet Software Development, Glasgow Caledonian University
+- Bsc Internet Software Development
 
+#### Langside College / 2006 – 2008
 
-#### Any other qualifications
+HND Multimedia and Web Development
 
-HND Multimedia & Web Development, Glasgow Langside College
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**YOOX Net-A-Porter – London** (Nov 17 – July 18)    
+*Web Producer - (freelance)*  
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Monsoon Accessorize** (Nov 15 - Nov 16)   
+*Front End Web Developer*  
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Attending Codebar
+- Playing the piano
+- Inline skating
+- Working out
