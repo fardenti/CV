@@ -11,12 +11,12 @@
 
 ### Technical skills
 
-• JavaScript, React JS, jQuery
-• Ruby, Rails
-• HTML, CSS, SASS/LESS, JSON
-• Jasmin, RSpec, Capybara
-• Heroku, Travis CI
-• Git, JIRA
+- JavaScript, React JS, jQuery
+- Ruby, Rails
+- HTML, CSS, SASS/LESS, JSON
+- Jasmin, RSpec, Capybara
+- Heroku, Travis CI
+- Git, JIRA
 
 ## Education
 
@@ -34,12 +34,12 @@
 
 #### Langside College / 2006 – 2008
 
-HND Multimedia and Web Development
+- HND Multimedia and Web Development
 
 
 ## Experience
 
-**YOOX Net-A-Porter – London** (Nov 17 – July 18)    
+**YOOX Net-A-Porter – London** (Nov 16 – July 19)    
 *Web Producer - (freelance)*  
 
 **Monsoon Accessorize** (Nov 15 - Nov 16)   
