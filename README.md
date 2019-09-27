@@ -46,6 +46,7 @@
 ## Hobbies
 
 - Attending Codebar
+- Practicing on Exercism and codewars
 - Playing the piano
 - Inline skating
 - Working out
