@@ -1,7 +1,10 @@
 ## Farnaz Ardenti
 
-<a href="https://www.linkedin.com/in/farnaz-ardenti-405103a5/">
+Contact: <a href="https://www.linkedin.com/in/farnaz-ardenti-405103a5/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+## Personal Summary
+An enthusiastic, highly motivated programmer, transitioned to full stack software engineer from front end web development. Recently graduated at Makers Academy software engineer course where I learnt new languages, technologies and most importantly Test driven development.
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 | Project | Summary | Technologies |
