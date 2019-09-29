@@ -1,5 +1,8 @@
 ## Farnaz Ardenti
 
+<a href="https://www.linkedin.com/in/farnaz-ardenti-405103a5/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
 ## <a name="makers_projects">Makers Academy Projects</a>
 | Project | Summary | Technologies |
 |----------|----------|----------|
