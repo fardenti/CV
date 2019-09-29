@@ -7,7 +7,7 @@ Contact
 ## Personal Summary
 An enthusiastic, highly motivated programmer, transitioned to full stack software engineer from front end web development. Recently graduated at Makers Academy software engineer course where I learnt new languages, technologies and most importantly Test driven development.
 
-## <a name="makers_projects">Makers Academy Projects</a>
+## <a name="personal_projects">Personal Projects at Makers</a>
 | Project | Summary | Technologies |
 |----------|----------|----------|
 | [A Note App](https://github.com/fardenti/notes-app-JS) | A single page web app for creating notes focusing on manipulating the DOM and writing tests with Javascript| JavaScript, HTML, CSS |
@@ -15,6 +15,13 @@ An enthusiastic, highly motivated programmer, transitioned to full stack softwar
 | [Bank App](https://github.com/fardenti/Bank-js) | Built a bank app to produce statements from client transactions focusing on TDD | JavaScript, Jest, Node, Eslint |
 | [thermostat-JS](https://github.com/fardenti/thermostat-js) | A thermostat web app with a Sinatra RESTful API | JavaScript, Sinatra, Ruby, Jasmine, HTML, CSS |
 | [Oystercard](https://github.com/fardenti/oystercard) | An Oystercard app focusing on TDD and Object Oriented Programming| Ruby, Rspec|
+
+
+## <a name="group_projects">Group Projects at Makers</a>
+| Project | Summary | Technologies |
+|----------|----------|----------|
+| [Acebook app](https://github.com/krisswiltshire30/acebook-fantastic-four) | A social media web app where users can sign in and post messages. It was developed over the course of two weeks by a team of four using Agile (Scrum) best practices. | Ruby on Rails |
+
 
 ### Technical skills
 
