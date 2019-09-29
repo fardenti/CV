@@ -46,7 +46,7 @@ An enthusiastic, highly motivated programmer, transitioned to full stack softwar
 **YOOX Net-A-Porter – London** (Nov 16 – July 19)    
 *Web Producer - (freelance)*  
 
-**Monsoon Accessorize** (Nov 15 - Nov 16)   
+**Monsoon Accessorize - London** (Nov 15 - Nov 16)   
 *Front End Web Developer*  
 
 
