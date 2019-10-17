@@ -20,7 +20,8 @@ An enthusiastic, highly motivated programmer, transitioned to full stack softwar
 ## <a name="group_projects">Group Projects at Makers</a>
 | Project | Summary | Technologies |
 |----------|----------|----------|
-| [Acebook app](https://github.com/krisswiltshire30/acebook-fantastic-four) | A social media web app where users can sign in and post messages. It was developed over the course of two weeks by a team of four using Agile (Scrum) best practices. | Ruby on Rails |
+| [Boris Bikes](https://github.com/JodiFoster/Sadiq-s-Scooters) | For our final Project at Makers, we developed a game engine in JavaScript and used Canvas for frontend to enteract with it. | JavaScript, Canvas, HTML, Jasmine |
+| [Acebook app](https://github.com/krisswiltshire30/acebook-fantastic-four) | A social media web app where users can sign in and post messages. It was developed over the course of two weeks by a team of four using Agile (Scrum) best practices. | Ruby on Rails, PostgreSQL |
 
 
 ### Technical skills
@@ -37,7 +38,7 @@ An enthusiastic, highly motivated programmer, transitioned to full stack softwar
 ## Education
 
 #### Makers Academy (July 19 - Oct 19)
-- Software Engineer Course (12 weeks)
+- Software Engineer Course (16 weeks)
 
 #### Caledonian University / 2008 – 2010
 
@@ -53,14 +54,29 @@ An enthusiastic, highly motivated programmer, transitioned to full stack softwar
 **YOOX Net-A-Porter – London** (Nov 16 – July 19)    
 *Web Producer - (freelance)*  
 
+• Updating and maintaining the homepage, promotional banners and headers on both Net a Porter and Mr Porter sites.
+
+• Collaborated with marketing, creative and tech teams to drive the development of engaging web features that increase customer engagement and sales.
+
+• Worked closely with designers and editors to produce high quality product.
+
+• Contributing to the day to day BAU uploading of editorial and marketing content to the Company website.
+
 **Monsoon Accessorize - London** (Nov 15 - Nov 16)   
 *Front End Web Developer*  
 
+• Developed company’s first responsive landing page templates using JavaScript, jQuery, JSON, HTML, CSS and underscore.js.
+
+• Worked on range of projects to introduced new creative features to the site such as carousels, animations and accordion menus to improve user experience.
+
+• Implemented company’s first responsive email templates, managing the project independently, working closely with design and CRM teams. All tested on Litmus to ensure they are compatible across all devices and platforms and for both IOS & Android.
+
+• Trained and mentored a junior web developer.
 
 ## Hobbies
 
 - Attending Codebar
-- Practicing on Exercism and codewars
+- Practicing on Exercism and Codewars
 - Playing the piano
 - Inline skating
 - Working out
