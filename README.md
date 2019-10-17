@@ -19,7 +19,7 @@ An enthusiastic, highly motivated programmer, transitioned to full stack softwar
 ## <a name="group_projects">Group Projects at Makers</a>
 | Project | Summary | Technologies |
 |----------|----------|----------|
-| [Boris Bikes](https://github.com/JodiFoster/Sadiq-s-Scooters) | For our final project at Makers, we developed a game engine in JavaScript and used Canvas for frontend to enteract with it. | JavaScript, Canvas, HTML, Jasmine |
+| [Boris Bikes](https://github.com/fardenti/Boris-Bikes-The-Game) | For our final project at Makers, we developed a game engine in JavaScript and used Canvas for frontend to enteract with it. | JavaScript, Canvas, HTML, Jasmine |
 | [Acebook app](https://github.com/krisswiltshire30/acebook-fantastic-four) | A social media web app where users can sign in and post messages. It was developed over the course of two weeks by a team of four using Agile (Scrum) best practices. | Ruby on Rails, PostgreSQL |
 
 
