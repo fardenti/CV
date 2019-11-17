@@ -25,7 +25,7 @@ An enthusiastic, highly motivated programmer, transitioned to full stack softwar
 
 ### Technical skills
 
-- JavaScript, React JS, jQuery
+- JavaScript, TypeScript, React JS, jQuery
 - Ruby, Rails
 - HTML, CSS, SASS/LESS, Bootstrap, JSON
 - Jasmin, Jest, RSpec, Capybara
